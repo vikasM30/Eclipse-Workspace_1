@@ -110,3 +110,5 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Failure to fin
 2018-07-01 08:59:34,983 [Worker-5] WARN  org.eclipse.jgit.util.FS_Win32 - null
 2018-07-01 09:14:29,002 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2018-07-01 09:14:37,530 [Worker-3] WARN  org.eclipse.jgit.util.FS_Win32 - null
+2018-07-02 20:37:26,260 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-07-02 20:37:33,674 [Worker-1] WARN  org.eclipse.jgit.util.FS_Win32 - null
